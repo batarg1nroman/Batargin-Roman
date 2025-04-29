@@ -1,0 +1,30 @@
+From 7058ea098c326f5a446685acd12fe590d53dbf1b Mon Sep 17 00:00:00 2001
+From: romar1o <rbatargin@mail.ru>
+Date: Mon, 28 Apr 2025 21:02:02 +0300
+Subject: [PATCH] =?UTF-8?q?=D0=A4=D0=B0=D0=B9=D0=BB=20project1.txt=20?=
+ =?UTF-8?q?=D0=BF=D0=B5=D1=80=D0=B5=D0=B8=D0=BC=D0=B5=D0=BD=D0=BE=D0=B2?=
+ =?UTF-8?q?=D0=B0=D0=BD=20=D0=B2=20project2.txt?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ .gitignore   | 1 -
+ project2.txt | 0
+ 2 files changed, 1 deletion(-)
+ delete mode 100644 .gitignore
+ create mode 100644 project2.txt
+
+diff --git a/.gitignore b/.gitignore
+deleted file mode 100644
+index a60141c..0000000
+--- a/.gitignore
++++ /dev/null
+@@ -1 +0,0 @@
+-"" 
+diff --git a/project2.txt b/project2.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.49.0.windows.1
+
